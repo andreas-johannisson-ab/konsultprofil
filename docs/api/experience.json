@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Systemutvecklare Lead",
+        "location": "Kronofogden",
+        "date": "2019 - 2023",
+        "description": [
+            "Genom ett samarbete mellan Kronofogden och Försäkringskassan har jag varit med och byggt självbetjäningstjänster för <a href=\"https://www.kronofogden.se\" target=\"_blank\">www.kronofogden.se</a>.",
+            "Utöver att bygga tjänster har jag i rollen som lead för tre utvecklingsteam jobbat mycket med övergripande systemdesign, CI/CD samt stöttning av utvecklingsteamen."
+        ],
+        "keywords": [ "Java", "TypeScript", "Angular", "REST", "Jenkins", "GIT", "Maven", "InteliJ", "Oracle WLS", "Oracle DB", "Splunk", "CI/CD" ]
+    },
+    {
+        "title": "Systemutvecklare",
+        "location": "Försäkringskassan",
+        "date": "2016 - 2023",
+        "description": [
+            "På försäkringskassan har jag medverkat i flera både stora och små projekt. Fokus har alltid legat på att göra digitala tjänster tillgängliga för kunderna genom responsivitet, design och WCAG-efterlevnad.",
+            "Exempel på ett projekt är ansökan om bostadsbidrag vilken introducerade flera nya koncept som tidigare inte använts på kassan. Nytt var bland annat flerpartssignering och personaliserat tilltal i text."
+        ],
+        "keywords": [ "Java", "JavaScript", "AngularJS", "Eclipse", "Gradle", "Jenkins", "GIT", "IBM WebSphere", "Scrum", "Safe", "WCAG" ]
+    },
+    {
+        "title": "Konsult",
+        "location": "Softhouse",
+        "date": "2007 - 2016",
+        "description": [
+            "Som konsult på Softhouse kände jag att jag hade goda möjligheter att jobba med spännande uppdrag och kunniga kollegor. På så vis fick jag fått möjlighet att utvecklas och lära mig nya tekniker löpande."
+        ],
+        "keywords":[ "Scrum", "Lean" ]
+    },
+    {
+        "title": "Systemutvecklare",
+        "location": "Telenor",
+        "date": "2015 - 2016",
+        "description": [
+            "Telenor hade under många år jobbat med utvecklingen av sin CMS-baserade publika web. Jag skötte löpande förvaltning och underhåll av CMS-pattforment. Jag skötte även förvaltningen av web-tjänsten för laddning av kontaktkort och ehandelsplatformen."
+        ],
+        "keywords": [ "Java", "C#", "SQL Tridion", "jQuery", "JavaScript", "Jenkins", "Mercurial" ]
+    },
+    {
+        "title": "Systemutvecklare",
+        "location": "Belkingetrafiken",
+        "date": "2014 - 2015",
+        "description": [
+            "Blekingetrafiken ville underlätta för sina resenärer, som tappat bort eller blivit bestulna på sina resekort, att spärra och få ett nytt kort hemskickat. För att göra detta krävdes att kunder kunde registrera sig som ägare till ett kort. Under detta korta uppdrag byggdes ett embryo till inloggat läge på blekingetrafiken.se, samt funktionalitet som möjliggjorde registrering och spärr av kort."
+        ],
+        "keywords": [ "C#", "LINQ", "ASP.NET MVC", "SQL Server" ]
+    },
+    {
+        "title": "Systemutvecklare",
+        "location": "Telenor",
+        "date": "2008 - 2014",
+        "description": [
+            "På Telenor arbetade jag med utveckling och förvaltning av telenors ehandelsplattform. Främst jobbade jag med implementation av produktkatalogen för försäljning via webben samt provisionering som krävdes efter att kunden slutfört sitt köp, dessa innefattade bland annat kreditkontroller, distribution av hårdvara samt konfiguration av kundens abonnemang."
+        ],
+        "keywords": [ "C#", "LINQ", "ASP.NET", "ASP.NET MVC", "REST", "SOAP", "SQL Server", "Subversion", "Mercurial" ]
+    },
+    {
+        "title": "Delivery Engineer",
+        "location": "UIQ Technology",
+        "date": "2007 - 2008",
+        "description": [
+            "Min roll på UIQ var att fungera som CM mellan UIQ och SonyEricsson samt UIQ och Motorola för att förvalta och underhålla de förändringar som kom från de olika parterna. Mina huvudsakliga arbetsuppgifter var att integrera de olika kodbaserna för produktspecifika anpassningar till slutkundernas hårdvara. Jag gjorde även tester och lokala anpassningar för att lösa ut eventuella konflikter och problem."
+        ],
+        "keywords": [ "C++", "Symbian", "Perforce" ]
+    },
+    {
+        "title": "Systemutvecklare",
+        "location": "Telenor",
+        "date": "2007",
+        "description": [
+            "För att åter få fokus på försäljningen via telenor.se samt att väcka liv i Commerce Server, ett system som legat i malpåse under en tid, beslutades att ett scrum-team skulle skapas. Målet för projektet var initialt att under en begränsad tid etablera en fungerande förvaltning. Därefter övergick vi till att bli en förvaltningsorganisation med fokus på snabba och täta leveranser. Min roll i teamet var främst som utvecklare med fokus på provisionering till olika system samt redesign av den publika webben."
+        ],
+        "keywords": [ "C#", "ASP.NET", "SVN", "Commerce Server" ]
+    },
+    {
+        "title": "Systemutvecklare",
+        "location": "ESRI S-Group",
+        "date": "2006 - 2007",
+        "description": [
+            "ESRI levererar GIS-system samt kartdata till kommuner och landsting. På ESRI arbetade jag med utvecklingen av Gesecma, som är en windowsapplikation. Mina huvudsakliga uppgifter var nyutveckling av det grafiska användargränssnittet samt refactorering av äldre komponenter."
+        ],
+        "keywords": [ "C++", "C#", "Windows Forms", "Visual SourceSafe", "GIS", "Geosecma" ]
+    }
+]

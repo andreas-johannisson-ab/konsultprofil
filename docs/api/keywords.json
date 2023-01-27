@@ -1,0 +1,9 @@
+[
+    [ "Java", "C#", "C++", "TypeScript", "JavaScript", "CSS", "HTML", "SQL" ],
+    [ "JUnit", "NUnit", "Jest", "Cypress", "Mockito", "AssertJ" ],
+    [ "Angular", "AngularJS", "VueJS", "jQuery", "ASP.NET", "PHP" ],
+    [ "Jenkins", "GIT", "Mercurial", "Maven", "Gradle" ],
+    [ "InteliJ", "Eclipse", "Visual Studio", "Photoshop", "AutoCAD" ],
+    [ "Oracle", "SQL Service", "MySQL", "Hibernate", "EF Core", "Liquibase" ],
+    [ "CI/CD", "Jira", "Scrum", "Safe" ]
+]
