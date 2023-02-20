@@ -14,7 +14,7 @@
         "location": "Försäkringskassan",
         "date": "2016 - 2023",
         "description": [
-            "På försäkringskassan har jag medverkat i flera både stora och små projekt. Fokus har alltid legat på att göra digitala tjänster tillgängliga för kunderna genom responsivitet, design och WCAG-efterlevnad.",
+            "På försäkringskassan har jag medverkat i flera både stora och små projekt. Fokus har alltid legat på att göra digitala tjänster tillgängliga för kunderna genom responsivitet, design och WCAG.",
             "Exempel på ett projekt är ansökan om bostadsbidrag vilken introducerade flera nya koncept som tidigare inte använts på kassan. Nytt var bland annat flerpartssignering och personaliserat tilltal i text."
         ],
         "keywords": [ "Java", "JavaScript", "AngularJS", "Eclipse", "Gradle", "Jenkins", "GIT", "IBM WebSphere", "Scrum", "Safe", "WCAG" ]
@@ -24,7 +24,7 @@
         "location": "Softhouse",
         "date": "2007 - 2016",
         "description": [
-            "Som konsult på Softhouse kände jag att jag hade goda möjligheter att jobba med spännande uppdrag och kunniga kollegor. På så vis fick jag fått möjlighet att utvecklas och lära mig nya tekniker löpande."
+            "Som konsult på Softhouse hade jag förmånen att jobba med spännande uppdrag och kunniga kollegor. Jag fick alltid möjlighet att utvecklas och lära mig nya tekniker löpande."
         ],
         "keywords":[ "Scrum", "Lean" ]
     },
@@ -33,7 +33,7 @@
         "location": "Telenor",
         "date": "2015 - 2016",
         "description": [
-            "Telenor hade under många år jobbat med utvecklingen av sin CMS-baserade publika web. Jag skötte löpande förvaltning och underhåll av CMS-pattforment. Jag skötte även förvaltningen av web-tjänsten för laddning av kontaktkort och ehandelsplatformen."
+            "Telenor hade under många år utvecklat sin CMS-baserade publika web. Denna CMS-plattform skötte jag förvaltning och underhåll av. Utöver det ansvarade jag även för förvaltningen av web-tjänsten för laddning av kontantkort och ehandelsplattformen."
         ],
         "keywords": [ "Java", "C#", "SQL Tridion", "jQuery", "JavaScript", "Jenkins", "Mercurial" ]
     },
@@ -42,7 +42,8 @@
         "location": "Belkingetrafiken",
         "date": "2014 - 2015",
         "description": [
-            "Blekingetrafiken ville underlätta för sina resenärer, som tappat bort eller blivit bestulna på sina resekort, att spärra och få ett nytt kort hemskickat. För att göra detta krävdes att kunder kunde registrera sig som ägare till ett kort. Under detta korta uppdrag byggdes ett embryo till inloggat läge på blekingetrafiken.se, samt funktionalitet som möjliggjorde registrering och spärr av kort."
+            "Blekingetrafiken ville underlätta för sina resenärer, som tappat bort eller blivit bestulna på sina resekort, att spärra och få ett nytt kort hemskickat. För att göra detta krävdes att kunder kunde registrera sig som ägare till ett kort.",
+            "Under detta korta uppdrag byggdes ett embryo till inloggat läge på blekingetrafiken.se, samt funktionalitet som möjliggjorde registrering och spärr av kort."
         ],
         "keywords": [ "C#", "LINQ", "ASP.NET MVC", "SQL Server" ]
     },
@@ -51,7 +52,7 @@
         "location": "Telenor",
         "date": "2008 - 2014",
         "description": [
-            "På Telenor arbetade jag med utveckling och förvaltning av telenors ehandelsplattform. Främst jobbade jag med implementation av produktkatalogen för försäljning via webben samt provisionering som krävdes efter att kunden slutfört sitt köp, dessa innefattade bland annat kreditkontroller, distribution av hårdvara samt konfiguration av kundens abonnemang."
+            "På Telenor arbetade jag med utveckling och förvaltning av Telenors ehandelsplattform. Främst jobbade jag med implementation av produktkatalogen för försäljning via webben samt automatiserade provisioneringen som krävdes efter att kunden slutfört sitt köp, detta innefattade bland annat kreditkontroller, distribution av hårdvara samt konfiguration av kundens abonnemang."
         ],
         "keywords": [ "C#", "LINQ", "ASP.NET", "ASP.NET MVC", "REST", "SOAP", "SQL Server", "Subversion", "Mercurial" ]
     },
@@ -60,7 +61,7 @@
         "location": "UIQ Technology",
         "date": "2007 - 2008",
         "description": [
-            "Min roll på UIQ var att fungera som CM mellan UIQ och SonyEricsson samt UIQ och Motorola för att förvalta och underhålla de förändringar som kom från de olika parterna. Mina huvudsakliga arbetsuppgifter var att integrera de olika kodbaserna för produktspecifika anpassningar till slutkundernas hårdvara. Jag gjorde även tester och lokala anpassningar för att lösa ut eventuella konflikter och problem."
+            "Min roll på UIQ var att fungera som CM mellan UIQ och SonyEricsson samt UIQ och Motorola för att förvalta och underhålla de förändringar som kom från de olika intressenterna. Mina huvudsakliga arbetsuppgifter var att integrera de olika kodbaserna för produktspecifika anpassningar till slutkundernas hårdvara. Jag gjorde även tester och lokala anpassningar för att lösa ut eventuella konflikter och problem."
         ],
         "keywords": [ "C++", "Symbian", "Perforce" ]
     },
