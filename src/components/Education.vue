@@ -17,10 +17,16 @@ export default {
 
 <template>
   <h2>{{ $t('education') }}</h2>
-  <article v-for="education in data">
-    <h3 class="gradient" v-if="education.title">{{ education.title }}</h3>
-    <h4>{{ education.institution }}<span>{{ education.date }}</span></h4>
-    <p v-for="course in education.courses">{{ course }}</p>
+  <article class="felx" v-for="institution in data.institutions">
+    <h3 class="gradient">{{ institution.title }}</h3>
+    <h4>{{ institution.institution }}<span>{{ institution.date }}</span></h4>
+  </article>
+  <h3 class="gradient">{{ $t('courses') }}</h3>
+  <article v-for="course in data.courses">
+    <h4>{{ course.institution }}</h4>
+    <ul>
+      <li v-for="course in course.courses">{{ course }}</li>
+    </ul>
   </article>
 </template>
 

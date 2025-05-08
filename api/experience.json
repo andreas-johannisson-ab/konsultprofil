@@ -1,13 +1,23 @@
 [
     {
+        "title": "Systemutvecklare",
+        "location": "Telenor",
+        "date": "2023 - 2025",
+        "description": [
+            "Som konsult på Telenor har jag arbetat med flera olika system. Jag har bland annat jobbat med utveckling av ett system för orderläggning och provisionering.",
+            "Jag har också jobbat mycket med AWS och Jenkins. Främst med automatprovisionering av infrastrukturresurser samt automatisering av bygg- och leveransprocesser."
+        ],
+        "keywords": [ "C#", "AWS", "Jenkins", "Docker", "Oracle DB", "GIT", "XUnit", "CI/CD", "CloudFormation", "Seq", "Splunk" ]
+    },
+    {
         "title": "Systemutvecklare Lead",
         "location": "Kronofogden",
         "date": "2019 - 2023",
         "description": [
-            "Genom ett samarbete mellan Kronofogden och Försäkringskassan har jag varit med och byggt självbetjäningstjänster för <a href=\"https://www.kronofogden.se\" target=\"_blank\">www.kronofogden.se</a>.",
+            "Genom ett samarbete mellan Kronofogden och Försäkringskassan har jag varit med och byggt självbetjäningstjänster riktade bådet till privatpersoner, myndigheter och företag.",
             "Utöver att bygga tjänster har jag i rollen som lead för tre utvecklingsteam jobbat mycket med övergripande systemdesign, CI/CD samt stöttning av utvecklingsteamen."
         ],
-        "keywords": [ "Java", "TypeScript", "Angular", "REST", "Jenkins", "GIT", "Maven", "InteliJ", "Oracle WLS", "Oracle DB", "Splunk", "CI/CD" ]
+        "keywords": [ "Java", "TypeScript", "Angular", "Jenkins", "GIT", "Maven", "CI/CD", "InteliJ", "Oracle WLS", "Oracle DB", "Splunk" ]
     },
     {
         "title": "Systemutvecklare",
@@ -15,7 +25,7 @@
         "date": "2016 - 2023",
         "description": [
             "På försäkringskassan har jag medverkat i flera både stora och små projekt. Fokus har alltid legat på att göra digitala tjänster tillgängliga för kunderna genom responsivitet, design och WCAG.",
-            "Exempel på ett projekt är ansökan om bostadsbidrag vilken introducerade flera nya koncept som tidigare inte använts på kassan. Nytt var bland annat flerpartssignering och personaliserat tilltal i text."
+            "Exempel på ett projekt är ansökan om bostadsbidrag vilken introducerade flera nya koncept som tidigare inte använts på Försäkringskassan. Nytt var bland annat flerpartssignering och personaliserat tilltal i text."
         ],
         "keywords": [ "Java", "JavaScript", "AngularJS", "Eclipse", "Gradle", "Jenkins", "GIT", "IBM WebSphere", "Scrum", "Safe", "WCAG" ]
     },

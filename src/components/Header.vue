@@ -2,9 +2,7 @@
   <h1 class="gradient">{{ $t("name") }}</h1>
   <h2>{{ $t('title') }}</h2>
   <p>
-    Som person är jag en driven utvecklare som tycker om att jobba i team som kan hålla hög fart och kvalitet.
-
-    Jag tycker om att jobbar proaktivt med CI/CD och jag försöker löpande se möjligheter till förenklingar och förbättringar i utvecklingsarbetet.
+    Som person är jag en driven utvecklare som tycker om att jobba i team som kan hålla hög fart och kvalitet. Jag tycker om att jobba proaktivt med CI/CD och jag försöker löpande se möjligheter till förbättringar och förenklingar i utvecklingsarbetet. Jag har djupgående kunskap inom utveckling av både backen och frontend.
   </p>
   <p>
     För mig är det viktigt att mina kollegor ska känna att de har förtroende för mig. 

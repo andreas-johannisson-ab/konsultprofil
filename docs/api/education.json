@@ -1,31 +1,35 @@
-[
-    {
-        "title": "Högskoleingenjör i Datateknik",
-        "institution": "Blekinge Tekniska Högskola",
-        "date": "2001 - 2004"
-    }, {
-        "title": "Gymnasieutbildning i naturvetenskap",
-        "institution": "Nordenbergsskolan",
-        "date": "1998 - 2001"
-    }, {
-        "title": "Fristående kurser",
-        "institution": "Blekinge Tekniska Högskola",
-        "courses": [
-            "Programmering i Java",
-            "Programmering i C",
-            "Grundkurs i astronomi"
-        ]
-    }, {
-        "institution": "Lunds Universitet",
-        "courses": [
-            "Teknisk programmering",
-            "CAD/CAM",
-            "Datorgrafik och visualisering"
-        ]
-    }, {
-        "institution": "Malmö Högskola",
-        "courses": [
-            "Visualisering"
-        ]
-    }
-]
+{
+    "institutions": [
+        {
+            "title": "Högskoleingenjör Datateknik",
+            "institution": "Blekinge Tekniska Högskola",
+            "date": "2001 - 2004"
+        }, {
+            "title": "Gymnasieutbildning Naturvetenskap",
+            "institution": "Nordenbergsskolan",
+            "date": "1998 - 2001"
+        }
+    ],
+    "courses": [
+        {
+            "institution": "Blekinge Tekniska Högskola",
+            "courses": [
+                "Programmering i Java",
+                "Programmering i C",
+                "Grundkurs i astronomi"
+            ]
+        }, {
+            "institution": "Lunds Universitet",
+            "courses": [
+                "Teknisk programmering",
+                "CAD/CAM",
+                "Datorgrafik och visualisering"
+            ]
+        }, {
+            "institution": "Malmö Högskola",
+            "courses": [
+                "Visualisering"
+            ]
+        }
+    ]
+}

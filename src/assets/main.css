@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400&family=Roboto:wght@300&display=swap');
 
 :root {
-  --text-gradient: linear-gradient(45deg,#808, #33D, #0BC);
+  --text-gradient: linear-gradient(45deg, #808, #33D, #0BC);
 }
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -11,26 +12,41 @@
 html {
   font-size: 14px;
 }
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
 @media print {
   html {
     font-size: 12px;
   }
+
+  .no-print {
+    display: none;
+  }
 }
+
 body {
   line-height: 1.6;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
+
 #app {
   max-width: 900px;
   margin: 2rem auto;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 ul {
   list-style: none;
 }
+
 h1, h2, h3, h4 {
   line-height: 110%;
   font-weight: 400;
@@ -38,37 +54,46 @@ h1, h2, h3, h4 {
   margin-bottom: 0.4rem;
   font-family: 'Oswald', sans-serif;
 }
+
 p {
   line-height: 140%;
 }
+
 h1 {
   font-size: 3rem;
 }
+
 h2 {
   font-size: 2rem;
   margin-top: 1.5rem;
 }
+
 h3 {
   font-size: 1.6rem;
 }
+
 h4 {
   font-size: 1.3rem;
 }
+
 a {
   color: #1f3862;
   text-decoration: none;
 }
+
 ul.keywords {
   display: flex;
   flex-wrap: wrap;
   font-size: 0.9rem;
   margin: 0.8rem -0.2rem;
 }
+
 ul.keywords li {
   padding: 0.5rem 0.6rem 0.4rem 0.6rem;
   line-height: 100%;
   margin: 0.2rem;
 }
+
 .icon {
   background: var(--text-gradient);
   font-family: 'Material Icons';
@@ -76,21 +101,10 @@ ul.keywords li {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.red {
-  background: #F00;
-  font-family: 'Material Icons';
-  font-size: 1.3rem;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;  
-}
+
 .gradient {
   display: inline-block;
   background: var(--text-gradient);;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-@media print {
-  .no-print {
-    display: none;
-  }
 }

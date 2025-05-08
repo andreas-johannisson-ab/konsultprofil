@@ -18,8 +18,8 @@ export default {
 <template>
   <h2>{{ $t('experience') }}</h2>
   <article v-for="experience in data">
-     <h3 class="gradient">{{ experience.title }}</h3>
-     <h4>{{ experience.location }}<span>{{ experience.date }}</span></h4>
+    <h3 class="gradient">{{ experience.title }}</h3>
+    <h4>{{ experience.location }}<span>{{ experience.date }}</span></h4>
     <p v-for="paragraph in experience.description" v-html="paragraph"></p>
     <ul class="keywords">
       <li v-for="keyword in experience.keywords">{{ keyword }}</li>
